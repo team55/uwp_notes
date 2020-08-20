@@ -6,8 +6,6 @@ PLUSES AND MINUSES:
 - ALLOW USE PICKERS (screen record as example)
 
 
-
-
 <!-- 
 
     https://docs.microsoft.com/ru-ru/windows/uwp/gaming/capture-game-audio-video-screenshots-and-metadata
