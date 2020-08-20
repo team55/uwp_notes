@@ -5,7 +5,20 @@ PLUSES AND MINUSES:
 - NO BINDINGS TO SAME MODEL
 - ALLOW USE PICKERS (screen record as example)
 
-<!--  -->
+
+
+
+<!-- 
+
+    https://docs.microsoft.com/ru-ru/windows/uwp/gaming/capture-game-audio-video-screenshots-and-metadata
+    не совместим девайс и не может писать таймспан ??
+
+    https://docs.microsoft.com/en-us/windows/uwp/design/layout/app-window
+    не разрешено использовать пикер - возвращает ложь по дефолту
+    стырый способ создания окна - разные потоки биндинга
+
+
+ -->
 
         
         // ---------------------------------------------------
